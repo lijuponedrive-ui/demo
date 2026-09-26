@@ -1,9 +1,13 @@
 streamlit
+plotly
 torch
 numpy
+scipy
 matplotlib
 h5py
-scipy
 pandas
 Pillow
-plotly
+scikit-learn
+seaborn
+imageio
+tqdm
