@@ -6,3 +6,4 @@ h5py
 scipy
 pandas
 Pillow
+plotly
