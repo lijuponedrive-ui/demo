@@ -43,7 +43,7 @@ N_PARAMS = 33
 # Checkpoint has [280, 64] at net.6.weight.
 N_OUT = 2 * NX * NY
 
-MODEL_PATH = "unet_run/best_model.pt"
+MODEL_PATH = "best_model.pt"
 
 
 # ============================================================
