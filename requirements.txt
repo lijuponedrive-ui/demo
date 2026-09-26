@@ -4,3 +4,5 @@ numpy
 matplotlib
 h5py
 scipy
+pandas
+Pillow
