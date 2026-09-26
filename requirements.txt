@@ -6,8 +6,6 @@ scipy
 matplotlib
 h5py
 pandas
-Pillow
 scikit-learn
-seaborn
-imageio
 tqdm
+plotly
